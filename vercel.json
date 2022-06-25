@@ -1,0 +1,15 @@
+{
+	"version":2,
+	"builds": [
+		{
+			"src": "./flaskr",
+			"use": "@vercel/python"
+		}
+	],
+	"routes": [
+		{
+		"src":"/(.*)",
+		"dest": "/"
+		}
+	]
+}

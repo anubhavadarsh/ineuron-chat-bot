@@ -16,9 +16,12 @@ from nltk import pos_tag
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+
 light = "light"
 medium = "medium"
 heavy = "heavy"
+
+train_on = light
 
 
 def normalize_csv(path):
@@ -33,7 +36,7 @@ def normalize_csv(path):
     return all_data
 
 
-all_data = normalize_csv(getDataSets(light))
+all_data = normalize_csv(getDataSets(train_on))
 
 ## PROCESSING THE DATA
 stopwords_list = stopwords.words("english")

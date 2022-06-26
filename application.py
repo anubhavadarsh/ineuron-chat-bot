@@ -5,6 +5,10 @@ from model2 import ask_question
 def create_app():
     app = Flask(__name__)
 
+    @app.route("/")
+    def hello():
+        return "hello world"
+
     @app.route("/api/kira", methods=["POST"])
     def send():
         jn = request.json

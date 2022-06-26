@@ -3,3 +3,4 @@ pandas
 numpy
 nltk
 sklearn
+flask_cors

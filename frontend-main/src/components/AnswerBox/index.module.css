@@ -1,0 +1,24 @@
+.container {
+  min-width: 750px;
+  max-width: 750px;
+  padding: 5px;
+  margin-top: 40px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background-color: white;
+  border-radius: 8px;
+
+  -webkit-box-shadow: -1px 0px 13px 0px rgba(237, 237, 237, 1);
+  -moz-box-shadow: -1px 0px 13px 0px rgba(237, 237, 237, 1);
+  box-shadow: -1px 0px 13px 0px rgba(237, 237, 237, 1);
+}
+
+.container > p {
+  font-size: 32px;
+  text-align: center;
+  font-family: var(--font-family-inter-light);
+  font-weight: 300;
+}

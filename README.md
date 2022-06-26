@@ -1,8 +1,8 @@
-<img src="./KIRA.png" style="float:Right" alt="drawing" width="300"/>
 
+<div align="rigth"> <img src="./KIRA.png" style="float:Right" alt="drawing" width="300"/>
+</div>
 # KIRA 
 ##### A smart bot trained using Ineuron twitter dataset.
-
 
 <br>
 <br>

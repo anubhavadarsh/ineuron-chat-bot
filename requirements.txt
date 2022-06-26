@@ -3,4 +3,3 @@ pandas
 numpy
 nltk
 sklearn
-pickle

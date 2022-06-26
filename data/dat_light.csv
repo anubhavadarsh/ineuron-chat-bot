@@ -1,0 +1,132 @@
+,q,a
+0,"<ss type=""hi"">(wave)</ss>, hi sir",Hi&apos;
+1,sir ,Hello 
+2,i have completed the excel course where i need to do assisgnments,course link
+3,"for powerbi i need to use advance powerbi they are asking company gmail sir what can i do for that, what coursse link sir",Not possible this is account realted problem and you must have this company emaild id for this
+4,for powerbi where i can do assisgnments sir,"You can use, simple power pi"
+5,in assisgnment there is no powerbi ir,can you please eloborate
+6,sir i need to do powerbi assignmnet what is the prosses,Not clearly understood your problem
+7,if there is any other posibility,Write your query in details
+8,sir can you come live skype support,Hello
+9,yes sir,Write your query in detail
+10,"ok, I am completing the powerbi coures for data analyist, but i cant able to do the assisgnment for powerbi and excel",Why?
+11,"<ss type=""hi"">(wave)</ss>, Sir, i am unable to install anoconda, <ss type=""hi"">(hi)</ss>, ?? ","what issue are you facing ??, in isntalling , please change the directory install anaconda in different location and then it will install  "
+12,"How to do that, I  am freshers so please assist me , ?? ","please click on ok , then send a screenshot, click on browse , choose any different location, and then click next"
+13,"? , ? , Nahi ho raha hai boss, Can i call??? ","go to control panel first and then un install anaconda 3 then install it , it will work for sure"
+14,"I did it several times sir, But happening same issue","go to C drive ---&gt; then got to users ---&gt; in that here will be anaconda folder and then delete it. , then install again"
+15,"Same, Can i install now ",click on add to path check box
+16,"I click on second one, 😑, Fir se delete karna padega? ",yes you should click on both the check boxes
+17,Ok i will re do the things again ,ok 
+18,Just me?? ,"yes, yes , install "
+19,"Install.. , Ok sir , What next, ? ","try running anaconda, anaconda prompt"
+20,"Not getting sir, 😞",follow some tutorial on youtube 
+21,"Hmm, Not getting sir, What next, ??? ","thats it, done"
+22,Ok ,Give me a call when you&apos;re back.
+23,"👍👍, Sir,  prompt me comand kuch bhi type ho rahi ",send complete screenshots from laptop
+24,"??, ???, hello boss hello , ? , Hello sir",you anaconda terminal is not working you need install it agian
+25,"<ss type=""smile"">:)</ss>, so i need to go for complete reinstallation ???, ??, ???","yes, spelling mistake, jupyter notebook"
+26,"finally, anaconda navigater is not opening ","it opend sir, navigater you have to open from your winndows search bar"
+27,by opening navigater i am getting this window,"are you able to write your code in jupyter notebook, it will take some time sir, for the navigator to open"
+28,not yet ,"please give it some time, okay sir, your jupyter notebook is working fine, you need not bother abou the navigator"
+29,"thank you!!",welcome
+30,,"Hi Shakshi!, May I please know what&apos;s your query?"
+31,"Hi , I have enrolled the fsds batch , now i am unable to see the recording video of last week , Regarding that please help , Hi","Hi, kindly mention the full batch name and share the link  to the course if possible ma&apos;am."
+32,Full stack data science,Kindly send your batch screenshot sir 
+33,Please find above screenshot,"ma&apos;am click on any video, a right pane would appear, there you can find a section for live classes recording, What you are displaying is the recently played video"
+34,Yes video is here but when I click no one is play,"okay ma&apos;am let me check, send your mail id here."
+35,"See, <a href=""mailto:shakshijain01@gmail.com"">shakshijain01@gmail.com</a>",have you tried logging out and signing in again ? seems like a connectivity issue
+36,Many times I have done it,I&apos;ll get back to you on this.
+37,Yes please,"ma&apos;am try checking from a different wi-fi connection once, because on our end, it is updated"
+38,"It&apos;s updated but not working .. already tried from different wifi connection, Hi ineuron team",Hello Shakshi
+39,"need help for download anaconda, hello",which os
+40,"windows 10, i have download the anaconda in my laptop, but not showing the anaconda navigator &amp; prompt for jupyter notebook",install anaconda
+41,"already installed, ???, please help ","send me screen shot, what you are not getting, search anaconda and send me screenshot"
+42,We have to solve and submit the python assignments in Word doc itself or in Jupyter Notebbok?,"Hello, Welcome to ineuron support"
+43,We have to solve and submit the python assignments in Word doc itself or in Jupyter Notebbok?,Sir in jupyter notebook sir
+44,"ok. so we have to write the questions also in form of comments and then solution, right?",You can use markdown sir
+45,"ok, got it. Thanks",Welcome sir
+46,Please try to upload the Statistics class notes which Krish Sir took last week,Yes sir it will be uploaded 
+47,Thanks,Welcome sir
+48,"I&apos;m enrolled in Full Stack Batch and I completed Excel, Tableau and Python from Data Analytics Fast Track and live classes for python but SQL part I didn&apos;t understand from Amit Sir, can you please provide me access to SQL course (Business Analytics Track) for project and tutorials as I&apos;m currently on leave and preparing for career transition in Data Analytics field. (15 days access would be fine I will complete projects and tutorials by then)","sir every material of sql listed in dashboard , you can follow lecture"
+49,"I followed MS Sql Server lectures then only telling you, Sorry, but not a good explanation from Amit Sir for SQL part",okay sir.For which course you need access?
+50,"<ss type=""hi"">(wave)</ss>, hello sir, i have took admission for full stake data science course today., with iNeuron, i am going to start study missing lectures from 27th Nov 2021. in case i will have query regarding course topics .i will ask you here., thank you.",sure
+51,"good afternoon, i was writing if statement like, a=10, if a &lt; 15, why is it showing syntex error?, can you explain?, it is showing invalid syntax.",please share screenshot of code 
+52,"ok, please check",sir after if statement you need to put a colon along with some statements go through the lectures
+53,"Ok thanx, please check this code. i wanted to know..is it compulsory to write pointer inside the bracket of defined function..if yes then why?","here you are defining the function inside class which get defined by init functions so that&apos;s why we are writing self otherwise for normal functions it is not compulsory, here self is the object"
+54,"class dics_parsing:, please check it.",self pointer here working as a object for init function which helps to define functions inside class 
+55,"yes , so whenever we make a new function inside a class. we have to give pointer inside bracket of function to relate it with class., is it right?",yes if you are calling init function to define variables you need to give self pointer
+56,"ok...thanx, please help me to download mysql. i am not able to install it., it is showing some issue while installing it., please help.","<a href=""https://youtu.be/9-g9JQZsi3c"">https://youtu.be/9-g9JQZsi3c</a>, refer this once."
+57,"ok, is it necessary to install microsoft visual before installing mysql?","yes it uses visual c++ in backend to run mysql<e_m a=""live:.cid.4933a22bf564744"" ts_ms=""1647779309747"" ts=""1647779309"" t=""61""></e_m>, yes it uses visual c++ in backend to run mysql<e_m a=""live:.cid.4933a22bf564744"" ts_ms=""1647779309747"" ts=""1647779309"" t=""61""></e_m>"
+58,"ok, Showing this after installation.","did you installed properly?, follwed the pdf?"
+59,"yes, yes",click on wrench icon
+60,"clicked, now what?",show me screen shot
+61,"here it is., what to do now?","open anaconda prompt, pip install mysql-connector, install this"
+62,"already i have open it, ok",pip install
+63,"it is showing this., showing this",pip install
+64,"again?, again showing same",write mysql
+65,showing this,"you need to reinstall it, mysql is not recognized"
+66,"ok, check it now",type mysql
+67,showing not recongnisible,Did you installed mysql correctly..try to reinstall it..
+68,"i am trying but it is not able to reinstall., it is redirecting to same page...after installation.",Uninstall it first from control panel &amp; program files &amp; then try to re-install it...
+69,"ok, installed it again...now here it came., what next., should i exit or wait., it is not going to next page., i this its started now., please check it",IT IS STARTED
+70,"0	29	22:50:39	show databases, this error is comming, showing &apos;use&apos; is not valid at the position expecting EOF.","show databases;, semicolon ate nd ;"
+71,"ok let me check it., yes its working now., thanx, hello sir...i have installed mongodb as per shudhansu sir instructions. but while i am feeding data to database it is giving error. please check.","hi, show me screen shot, remove the  &lt;   &gt;"
+72,"ok, problem solved..thank you., good morning., can you tell me the procedure to submit assignments and projects., where to submit an assignment and which format?, reply please.",please refer this document
+73,"Hello,",please wait sir. you will receive a mail by today
+74,"Ok, i am not able to install pandas profiling in notebook. please check, it is saying cannot import to html type error.",pandas profiling do on google collab
+75,hi,hello sir what is your query 
+76,"hi thanks for your reply i just joined the course. , could u please tell me on what topic will today&apos;s class be? ","sir you will receive the mail . please check your mail .you will get to know in the live class , you can finish the lectures which has conducted previously . in order to cope with the current lecutre "
+77,Hi team,hello
+78,today i have joined in ineuron,welcome to ineuron sir 
+79,"thank you sir, Hi team, Hi team",Hi sir
+80,"Hi Sir , Good evening ","Hi, good evening"
+81,hi ,Hi
+82,"i am not able to connect with sudhanshu sir?, can you please access to talk with him?","<a href=""mailto:sudhanshu@ineuron.ai"">sudhanshu@ineuron.ai</a> , you can send mail to him"
+83,okay sir thank you,your welcome
+84,Hi ,hi
+85,how to add the updated ipynb file into github after the same file?,where is your file located
+86,"i have uploaded the file into github, the same file i will do assignment how to refelect in github?","you need to do git pull , then make chanbges, thn git push"
+87,how do i do this?,"<a href=""https://www.datacamp.com/tutorial/git-push-pull"">https://www.datacamp.com/tutorial/git-push-pull</a>"
+88,through git or powershell?,git bash
+89,"okay, how to write gitcommand for that?",you should learn basics of git and GitHub
+90,okay sir thank you. Please share the right link for that,"ok, <a href=""https://www.youtube.com/watch?v=apGV9Kg7ics&amp;t=3678s"">https://www.youtube.com/watch?v=apGV9Kg7ics&amp;t=3678s</a>"
+91,okay thank you,your welcome
+92,Hi Team ,hi
+93,"Can I call you regarding git basic? , I read git basics which is  shared by yoy, Still have not understood clearly ",what exactly you are not able to understand?
+94,"I have worked on my jupyter notebook which needs to be updated. I want this changes to be reflected in github?. , Which git command can I use for that? ",using git push command you can update into remote git repository
+95,Ok do I need to use git add command first or directly use git push,"yes git add, then git push, git add will update to your git local repo, and git push will push to remote repo"
+96,git add  remote URL? ,"See this:- <a href=""https://github.com/git-guides/git-push"">https://github.com/git-guides/git-push</a>"
+97,hi,hello
+98,"i have one doubt on git cd command, i created environment cd is not working",what error you are getting ?
+99,bash: cd: c:UsersRajeshproject: No such file or directory,give absolute path sir
+100,"yes i gave correct only sir, whether do i use gitbash or Gitcmd, GitGUI","sir share screenshot of your terminal, check the current directory "
+101,can you plz call sir?,Check you currently directory and share screenshot sir
+102,"C:\Program Files\Git, git is installed this path sir, whether do i use gitcmd, gitbash, gitgui, which one do i use now?","type git init, and then sign in to your github and use it sir"
+103,already my github is signed in sir,sir what are you trying now sir
+104,"i have a github account sir, actually i created environment for storing my files in local  . Now i want to initilize the path through git  and then move my updated ipynb file into github sir, C:\Users\Rajesh\project this is local environment path, i need to gitinit here sir","now type cd C:\Users\Rajesh\project , in git bash, and then copy all the files there "
+105,ok sir,"and then go to github and create a new repo , and then when you create a new repo it will give you commands also which you have to follow for pushing data to that repo, these commands you have to follow then, these commds are according to my project you can follow your commands"
+106,C:\Users\Rajesh\project i could not paste this directory in gitbash.,sir ctrl+v will not work right click and paste 
+107,"ok sir, this is the error after paste the directory, why sir ?",sir because git bash follows differnet format now try this cd /c/Users/Rajesh/project
+108,okay sir i tried,sir copy what i sent
+109,"i could not see  .git file in this folder C:\Users\Rajesh\project, please advise",beacuse that file is hidden check hidden files
+110,"yes got it , now can i copy my ipynb files into this C:\Users\Rajesh\project ?, Right sir?, Kindly reply sir",yes sir
+111,this is the error after git add sample.txt,"Hi Rajesh!, I am sorry I didn&apos;t understand your query. Please elaborate."
+112,"<ss type=""hi"">(wave)</ss>, Hello","Hello sir, please ask your query"
+113,"How to submit my assignment , Please me give me demo, When we connect??",in induction call mentor will explain how to submit assignemnts
+114,"Hello, I have an issue to submit my assignment on github, Please assist me",you can submit the link of assignmnet inside assignment form 
+115,Can we connect for 2 min?,please text your query here
+116,"When I save my assignment in .ipynb format in my local system. No change inside  my file, But when i upload that file on github account- file is not uploaded properly , My ans are not showing properly ","don&apos;t worry about that, it is just beacuse of file size, just upload the link of that repo, that will be enough"
+117,"<a href=""Https://github.com/Ankur037/-iNeuron-Full-Stack-Data-Science-Assignments/blob/main/Assignment_5.ipynb"">Https://github.com/Ankur037/-iNeuron-Full-Stack-Data-Science-Assignments/blob/main/Assignment_5.ipynb</a>, Please check my assignment 5, This is showing correct or not, My ans is not showing properly , Waiting for your reply ","i am not able to see the answers of 2, 3, 4, rest is fine"
+118,"Open assignment - 5, You see my all answers property ",i have opened that onlly
+119,"Ans- 2 ,3, not showing ",yes
+120,"Issue is this, But original file contains all ans",upload that file again on github and check
+121,"Wait, Please check now, Same issue ",send your notebook here let me check
+122,How can i send??,send your jupyter notebook which is present in your local system
+123,Provide me steps,upload your file on drive and send me the link
+124,When i upload files on Google drive and opened ,share me the link
+125,"<a href=""https://drive.google.com/file/d/1LSWGk-8Sli5UgbnN860sUujT9SNx2_09/view?usp=sharing"">https://drive.google.com/file/d/1LSWGk-8Sli5UgbnN860sUujT9SNx2_09/view?usp=sharing</a>",provide access
+126,How?,click on share and give access
+127,"shared, Issue has been resolved., <a href=""https://github.com/Ankur037/-iNeuron-Full-Stack-Data-Science-Assignments/blob/main/Assignment_1.ipynb"">-iNeuron-Full-Stack-Data-Science-Assignments/Assignment_1.ipynb at main · Ankur037/-iNeuron-Full-Stack-Data-Science-Assignments (github.com)</a>, oprn this link and check my assignment 1, you seen my all ans or not?",got it
+128,"Hello, Hello, How can i prepare my resume , Completed my python module ",you can first create at least 2 projects related to that then start building resume
+129,"Hii, Where is python projects??",You need to create real application of python. You can learn from our machine learning lectures 
+130,"Machine learning project is python projects , Correct , No separate python projects , Assign me mentor for interview preparation and resume preparation ","<a href=""mailto:shivan@ineuron.ai"">shivan@ineuron.ai</a>, mail him sir he will be your mentor"
